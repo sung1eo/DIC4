@@ -13,3 +13,6 @@
 - git add 'commit하고 싶은 파일'
 - git commit -m "commit 메세지"
 - git push -u origin main
+
+# 업데이트된 파일을 내려 받을 때
+- git pull origin main
