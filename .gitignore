@@ -1,0 +1,4 @@
+
+# notebook temp file
+*.ipynb_checkpoints
+/.ipynb_checkpoints/*
